@@ -28,10 +28,10 @@ Copy and paste the code snippet below into your README to display your skills ic
 Change the `?i=js,html,css,cf` to a list of your skills separated by ","s! You can find a full list of icons [here](#icons-list).
 
 ```
-[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=js,html,css,cf)](https://skillicons.dev)
+[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=js,html,css,cf)]()
 ``` 
 
-[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=js,html,css,cf)](https://skillicons.dev)
+[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=js,html,css,cf)]()
 
 # Themed Icons
 
@@ -44,10 +44,10 @@ Change the `&theme=light` to either `dark` or `light`. The theme is the backgrou
 **Light Theme Example:**
 
 ```md
-[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=java,kotlin,nodejs,figma&theme=light)]()
 ```
 
-[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=java,kotlin,nodejs,figma&theme=light)]()
 
 # Icons Per Line
 
@@ -56,10 +56,10 @@ Customize your layout by setting the icons-per-line limit! This parameter is opt
 Change the `&perline=3` to any number between 1 and 50.
 
 ```md
-[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]()
 ```
 
-[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)]()
 
 # Centering Icons
 
