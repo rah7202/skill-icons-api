@@ -24,7 +24,7 @@ jobs:
             - name: Build icons.json
               run: npm run build.js
 
-            - name: Deploy
-              uses: clouflare/wrangler-actions@v3
+            - name: Deploy to Cloudflare
+              uses: clouflare/wrangler-action@v3
               with:
                 apiToken: ${{ secrets.CF_API_TOKEN }}
