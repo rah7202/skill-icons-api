@@ -22,7 +22,7 @@ jobs:
               run: npm install
 
             - name: Build icons.json
-              run: npm run build.js
+              run: npm run build
 
             - name: Deploy to Cloudflare
               uses: cloudflare/wrangler-action@v3
