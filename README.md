@@ -27,7 +27,7 @@ Copy and paste the code snippet below into your README to display your skills ic
 
 Change the `?i=js,html,css,cf` to a list of your skills separated by ","s! You can find a full list of icons [here](#Available-Icons-List).
 
-```
+```md 
 [![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=js,html,css,cf)](https://skill-icons-web-eta.vercel.app/)
 ``` 
 
