@@ -1,6 +1,7 @@
 <h1 align="center">Add Skill Icons</h1>
-<h3 align="center">Showcase your skills on your GitHub readme files with 200+ icons with ease!</h3>
+<h3 align="center">Seamlessly display your technical skills on your GitHub readme files with 200+ available icons with ease!</h3>
 <hr>
+
 
 <h3 align="center">Powered by Cloudflare Workers ⚡</h3>
 
