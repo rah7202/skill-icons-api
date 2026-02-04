@@ -9,32 +9,32 @@
 
 # Documentation
  
-- [How it look in your readme file](#How it look in your readme file)
+- [How it look in your readme file](#How-it-look-in-your-readme-file)
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
 - [Icons Per Line](#icons-per-line)
 - [Centering Icons](#centering-icons)
-- [Available Icons List](#Available Icons List)
+- [Available Icons List](#Available-Icons-List)
 
 # How it look in your readme file
 
 <p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
-
+ 
 
 # Specifying Icons 
 
 Copy and paste the code snippet below into your README to display your skills icons! 
 
-Change the `?i=js,html,css,cf` to a list of your skills separated by ","s! You can find a full list of icons [here](#icons-list).
+Change the `?i=js,html,css,cf` to a list of your skills separated by ","s! You can find a full list of icons [here](#Available-Icons-List).
 
 ```
 [![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=js,html,css,cf)](https://skill-icons-web-eta.vercel.app/)
 ``` 
 
-[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=js,html,css,cf)](https://skill-icons-web-eta.vercel.app/)
+[![My Skills](https://skill-icons.rpidiyar249.workers.dev/icons?i=js,html,css,cf)](https://skill-icons-web-eta.vercel.app/) 
 
 # Themed Icons
-
+ 
 Many icons offer both dark and light variations. You can specify your preferred theme via a URL parameter.
 
 This is optional; the default theme is set to dark.
@@ -325,7 +325,3 @@ Here's a full list of available icons currently supported. Feel free to open an 
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
 
 ---
-
-
-
-
