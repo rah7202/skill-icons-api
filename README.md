@@ -9,17 +9,17 @@
 
 # Documentation
  
-- [Example](#example)
+- [How it look in your readme file](#How it look in your readme file)
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
 - [Icons Per Line](#icons-per-line)
 - [Centering Icons](#centering-icons)
-- [Icons List](#icons-list)
+- [Available Icons List](#Available Icons List)
 
 # How it look in your readme file
 
 <p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
-<!-- <p align="center"><img align="center" src="./.github/example-dark.png#gh-light-mode-only"/></p> -->
+
 
 # Specifying Icons 
 
