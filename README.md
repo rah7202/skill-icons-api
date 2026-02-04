@@ -1,6 +1,6 @@
-<p align="center"><img align="center" width="280" src=".github/logo-light.png#gh-light-mode-only"/></p>
-<p align="center"><img align="center" width="280" src=".github/text-logo.png#gh-dark-mode-only"/></p>
-<h3 align="center">Seamlessly display your technical skills with 200+ icons on your GitHub readme files</h3>
+<p align="center"><img align="center" width="280" src="./.github/logo-light.png#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="280" src="./.github/text-logo.png#gh-light-mode-only"/></p>
+<h3 align="center">Showcase your skills on your GitHub readme files with 200+ icons with ease!</h3>
 <hr>
 
 <h3 align="center">Powered by Cloudflare Workers ⚡</h3>
