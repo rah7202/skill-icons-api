@@ -1,5 +1,4 @@
-<p align="center"><img align="center" width="280" src="./.github/logo-light.png#gh-light-mode-only"/></p>
-<p align="center"><img align="center" width="280" src="./.github/text-logo.png#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="280" src="./.github/logo.png"/></p>
 <h3 align="center">Showcase your skills on your GitHub readme files with 200+ icons with ease!</h3>
 <hr>
 
