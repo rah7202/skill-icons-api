@@ -18,7 +18,7 @@
 
 # How it look in your readme file
 
-<p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" src="./.github/example-dark.png"/></p>
  
 
 # Specifying Icons 
