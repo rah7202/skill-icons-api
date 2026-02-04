@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="600" src="./.github/logo.png"/></p>
+<h1 align="center">Add Skill Icons</h1>
 <h3 align="center">Showcase your skills on your GitHub readme files with 200+ icons with ease!</h3>
 <hr>
 
